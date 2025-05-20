@@ -1,8 +1,5 @@
  ---- popular product -----
-```sql
-select pizza_name, Count(pizza_name) as orders
+select hour(order_time) as hour, count(hour(order_time)) as sum_of_order_Number
 from pizza_sales
-group by pizza_name
-order by orders desc;
-
-```
+group by hour(order_time)
+order by hour(order_time) asc;
