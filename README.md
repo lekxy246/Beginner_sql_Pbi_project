@@ -32,7 +32,7 @@ Query: [Sales Trend](salestrend.sql)
 - What is the most popular Pizza size(M or L)
 - What is the most popular pizza category (Classic, Veggie, Supreme)
 
-Query: [Popular Product](popular_product_sql)
+Query: [Popular Product](popularproduct.sql)
 
 
 
