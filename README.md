@@ -24,7 +24,15 @@ Query: [Sales Trend](salestrend.sql)
 - Peak ordering hours are between 12h–14h and 17h–19h
 - The rapid spike in pizza orders is the result of lunch and dinner
 - The lowest order is between 9h-10h
-- 
+- Steady downward orders after 18h
+
+
+2. Popular Products
+- Which pizza is most ordered?
+- What is the most popular Pizza size(M or L)
+- What is the most popular pizza category (Classic, Veggie, Supreme)
+
+Query: 
 
 
 
