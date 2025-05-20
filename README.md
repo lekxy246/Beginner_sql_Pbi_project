@@ -17,7 +17,9 @@
 
 Query: [Sales Trend](salestrend.sql)
 
-### Visualization:
-![Screenshot 2025-05-20 140700](https://github.com/user-attachments/assets/497b7441-e546-4209-9e67-bc0597bb86db)
+##### Visualization:
+<img src= "https://github.com/user-attachments/assets/d41c23f1-9e7c-4c06-9d4d-c6fefae30582" width="70%">   
+
+
 
 
