@@ -16,3 +16,6 @@
 - which days have the highest number of orders?
 
 Query: [Sales Trend](salestrend.sql)
+
+# Visualization:
+
