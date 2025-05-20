@@ -27,12 +27,12 @@ Query: [Sales Trend](salestrend.sql)
 - Steady downward orders after 18h
 
 
-2. Popular Products
+2. Popular Products Analysis
 - Which pizza is most ordered?
 - What is the most popular Pizza size(M or L)
 - What is the most popular pizza category (Classic, Veggie, Supreme)
 
-Query: 
+Query: [Popular Product](popular_product_sql)
 
 
 
