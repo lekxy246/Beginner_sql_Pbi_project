@@ -51,7 +51,7 @@ Query: [Popular Product](popularproduct.sql)
 - What is the average order value?
 - How does the revenue compare between different pizza categories?
 
-  Query: [Revenue](
+  Query: [Revenue](Revenue.sql)
 
 
 
