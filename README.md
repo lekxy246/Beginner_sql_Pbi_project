@@ -36,6 +36,12 @@ Query: [Popular Product](popularproduct.sql)
 
 ##### Visualization:
 
+<img src= "https://github.com/user-attachments/assets/0946839f-b0ae-4f31-8714-1c19c14c726e" width="70%">
+
+**Key Finding:**
+- 
+
+
 
 
 
