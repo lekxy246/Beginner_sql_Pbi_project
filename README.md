@@ -53,16 +53,25 @@ Query: [Popular Product](popularproduct.sql)
 
   Query: [Revenue](Revenue.sql)
 
-  ##### Visualization
+  ##### Visualization:
   
-<img src = "https://github.com/user-attachments/assets/9ac6c0db-49c2-44eb-98d7-20b8dabee14d" width = "70%">
+<img src = "https://github.com/user-attachments/assets/ee4fabe4-b74e-4132-b962-d1fb712328d4" width = "70%">
+
 
 **Key Finding:**
 - The thai chicken pizza generate the highest sales
 - Classic pizza generates the highest total sales(categories) followed closely by supreme,chicken and Veggie
 - There is a steady decrease in revenue in the pizza list name(The green garden and The brie Carre Pizza) generately low revenue
-- Based on the Average order value, it shows that the average(mean) of each other placed is worth $16
+- Based on the Average order value, it shows that the average(mean) of each order placed is worth $16
 
+## 4. Customer Preferences/ order Pattern
+- Is there any preference for vegeterian or non-vegetarian pizzas?
+- How often do customers order more than one pizza at a time?
+
+  Query: [Customer Preferences/ order Pattern](customer_preference.order_pattern.sql)
+
+  ##### Visualization:
+  
 
 
 
