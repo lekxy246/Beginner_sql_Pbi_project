@@ -11,7 +11,7 @@
 
 ## Analysis Approach
 
-1. Sales Trend Analysis
+## 1. Sales Trend Analysis
 - What are the peak order times for pizza?
 - which days have the highest number of orders?
 
@@ -27,7 +27,7 @@ Query: [Sales Trend](salestrend.sql)
 - Steady downward orders after 18h
 
 
-2. Popular Products Analysis
+## 2. Popular Products Analysis
 - Which pizza is most ordered?
 - What is the most popular Pizza size(M or L)
 - What is the most popular pizza category (Classic, Veggie, Supreme)
@@ -36,10 +36,23 @@ Query: [Popular Product](popularproduct.sql)
 
 ##### Visualization:
 
-<img src= "https://github.com/user-attachments/assets/0946839f-b0ae-4f31-8714-1c19c14c726e" width="70%">
+<img src= "https://github.com/user-attachments/assets/be35f0de-574a-40d9-8ecc-06a1e83c49d6" width="70%">
 
 **Key Finding:**
-- 
+- classic(category) pizza is the most ordered pizza
+- The chicken(category) pizza is the least ordered pizza
+- Large pizza is the most ordered(based on size)
+- XXL pizza is the least ordered(based on size)
+- The classic Deluxe pizza is the most ordered pizza
+
+
+## 3. Revenue Analysis
+- Which pizza generate the highest revenue?
+- What is the average order value?
+- How does the revenue compare between different pizza categories?
+
+  Query: [Revenue](
+
 
 
 
