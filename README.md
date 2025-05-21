@@ -54,11 +54,10 @@ Query: [Popular Product](popularproduct.sql)
   Query: [Revenue](Revenue.sql)
 
   ##### Visualization
-!<img src = "https://github.com/user-attachments/assets/74885a64-e86e-4053-a463-2c87b1c4d7e3" width = "70%">
-
   
-
-
+<img src = "https://github.com/user-attachments/assets/9ac6c0db-49c2-44eb-98d7-20b8dabee14d" width = "70%">
+**Key Finding:**
+- 
 
 
 
