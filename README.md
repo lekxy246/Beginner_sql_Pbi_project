@@ -72,8 +72,7 @@ Query: [Popular Product](popularproduct.sql)
 
   ##### Visualization:
   
-
-
+<img src = "https://github.com/user-attachments/assets/6714d12e-6bff-488e-a567-5240aa6d2b8f" width = "70%">
 
 
 
