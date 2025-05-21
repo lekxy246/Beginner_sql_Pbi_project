@@ -56,8 +56,12 @@ Query: [Popular Product](popularproduct.sql)
   ##### Visualization
   
 <img src = "https://github.com/user-attachments/assets/9ac6c0db-49c2-44eb-98d7-20b8dabee14d" width = "70%">
+
 **Key Finding:**
-- 
+- The thai chicken pizza generate the highest sales
+- Classic pizza generates the highest total sales(categories) followed closely by supreme,chicken and Veggie
+- There is a steady decrease in revenue in the pizza list name(The green garden and The brie Carre Pizza) generately low revenue
+- Based on the Average order value, it shows that the average(mean) of each other placed is worth $16
 
 
 
