@@ -105,3 +105,13 @@ Query: [Time-Based](Time_based.sql)
 ##### Visualization:
 <img src = "https://github.com/user-attachments/assets/fab430b1-5ee1-4fbc-9d74-2373b33589cc" width = "70%">
 
+**Key findings:**
+- 9h to 10h are unusually low, but a little bit understandable considering its opening hour.
+- The high(peak) sales aren't unusual considering the time for lunch and dinner.
+- The downward trend from 18h to 23hr isn't unusual unlike 9h to 10h.
+
+
+
+## Strategic Recommendations
+1. 
+
