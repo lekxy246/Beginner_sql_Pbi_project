@@ -20,7 +20,7 @@
 Query: [Sales Trend](salestrend.sql)
 
 ##### Visualization:
-<img src= "https://github.com/user-attachments/assets/d41c23f1-9e7c-4c06-9d4d-c6fefae30582" width="70%"> 
+<img src= "https://github.com/user-attachments/assets/d41c23f1-9e7c-4c06-9d4d-c6fefae30582" width="100%"> 
 
 **Key Findings:**
 - Peak ordering hours are between 12h–14h and 17h–19h.
