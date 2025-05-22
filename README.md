@@ -8,6 +8,8 @@
 2. Popular product
 3. Revenue Analysis
 4. Customer Preference/order Pattern
+5. Pricing Insights
+6. Time-BAsed Insights
 
 ## Analysis Approach
 
@@ -25,6 +27,11 @@ Query: [Sales Trend](salestrend.sql)
 - The rapid spike in pizza orders is the result of lunch and dinner.
 - The lowest order is between 9h-10h.
 - Steady downward orders after 18h.
+
+#### Recommendations:
+- Discount should be targeted during non-peak(9h to 10h and 21h to 23h) to improve orders to boost sales.
+- Enough workers should be available between 12h to 18h to be able to meet up with high demand.
+- Preparation of orders to be delivered during a later time should be considered during the non-peak period(9h to 10h).
 
 
 ## 2. Popular Products Analysis
@@ -45,6 +52,11 @@ Query: [Popular Product](popularproduct.sql)
 - XXL pizza is the least ordered(based on size).
 - The classic Deluxe pizza is the most ordered pizza.
 
+#### Recommendations:
+- The chicken pizza(least ordered based on category) should be paired with classic pizza(most ordered based on category) coupled with an irresistible price.
+- Promotion should be targeted toward XL and XXL pizza to improve the orders and sales(e.g extra two dipping sauce like ketchup or garlic mayonnaise) to improve visiblity and   recognition
+- Introdcuing a package where a walk in family with proof can get an XXL pizza for a discounted price.
+
 
 ## 3. Revenue Analysis
 - Which pizza generate the highest revenue?
@@ -61,8 +73,12 @@ Query: [Popular Product](popularproduct.sql)
 **Key Finding:**
 - The thai chicken pizza generate the highest sales.
 - Classic pizza generates the highest total sales(categories) followed closely by supreme,chicken and Veggie.
-- There is a steady decrease in revenue in the pizza list name(The green garden and The brie Carre Pizza) generately low revenue.
+- There is a steady decrease in revenue in the pizza list name(The green garden and The brie Carre Pizza) generate low revenue.
 - Based on the Average order value, it shows that the average(mean) of each order placed is worth $16.
+
+
+#### Recommendations:
+- 
 
 ## 4. Customer Preferences/ order Pattern
 - Is there any preference for vegeterian or non-vegetarian pizzas?
@@ -112,6 +128,9 @@ Query: [Time-Based](Time_based.sql)
 
 
 
-## Strategic Recommendations
-1. 
+
+
+
+
+
 
