@@ -128,6 +128,13 @@ Query: [Time-Based](Time_based.sql)
 
 
 
+## Technical Details
+- Database: MySQL
+- Analysis Tools: MySQL, Power Bi
+- Visualization: Power Bi
+
+
+
 
 
 
