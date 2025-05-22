@@ -100,7 +100,7 @@ Query: [Pricing insight](Pricing_insights.sql)
   ## 6. Time-Based Insights
   - Are there any time periods with unusually high or low sales?
  
-Query: [Time-Based](Time_based)
+Query: [Time-Based](Time_based.sql)
 
 ##### Visualization:
 <img src = "https://github.com/user-attachments/assets/fab430b1-5ee1-4fbc-9d74-2373b33589cc" width = "70%">
