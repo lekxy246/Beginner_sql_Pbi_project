@@ -43,7 +43,7 @@ Query: [Popular Product](popularproduct.sql)
 
 ##### Visualization:
 
-<img src= "https://github.com/user-attachments/assets/be35f0de-574a-40d9-8ecc-06a1e83c49d6" width="70%">
+<img src= "https://github.com/user-attachments/assets/be35f0de-574a-40d9-8ecc-06a1e83c49d6" width="100%">
 
 **Key Finding:**
 - classic(category) pizza is the most ordered pizza.
@@ -67,7 +67,7 @@ Query: [Popular Product](popularproduct.sql)
 
   ##### Visualization:
   
-<img src = "https://github.com/user-attachments/assets/ee4fabe4-b74e-4132-b962-d1fb712328d4" width = "70%">
+<img src = "https://github.com/user-attachments/assets/ee4fabe4-b74e-4132-b962-d1fb712328d4" width = "100%">
 
 
 **Key Finding:**
@@ -88,7 +88,7 @@ Query: [Popular Product](popularproduct.sql)
 
   ##### Visualization:
   
-<img src = "https://github.com/user-attachments/assets/38e6c826-c123-45a6-a7aa-247228acf3d1" width = "70%">
+<img src = "https://github.com/user-attachments/assets/38e6c826-c123-45a6-a7aa-247228acf3d1" width = "100%">
 
 
 **Key findings:**
@@ -104,7 +104,7 @@ Query: [Popular Product](popularproduct.sql)
 Query: [Pricing insight](Pricing_insights.sql)
 
 ##### Visualization:
-<img src = "https://github.com/user-attachments/assets/1352df35-c742-4970-b208-2ef58fdcad9e" width = "70%">
+<img src = "https://github.com/user-attachments/assets/1352df35-c742-4970-b208-2ef58fdcad9e" width = "100%">
 
 
 **Key findings:**
@@ -119,7 +119,7 @@ Query: [Pricing insight](Pricing_insights.sql)
 Query: [Time-Based](Time_based.sql)
 
 ##### Visualization:
-<img src = "https://github.com/user-attachments/assets/fab430b1-5ee1-4fbc-9d74-2373b33589cc" width = "70%">
+<img src = "https://github.com/user-attachments/assets/fab430b1-5ee1-4fbc-9d74-2373b33589cc" width = "100%">
 
 **Key findings:**
 - 9h to 10h are unusually low, but a little bit understandable considering its opening hour.
