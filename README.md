@@ -88,6 +88,20 @@ Query: [Popular Product](popularproduct.sql)
 Query: [Pricing insight](Pricing_insights.sql)
 
 ##### Visualization:
+<img src = "https://github.com/user-attachments/assets/1352df35-c742-4970-b208-2ef58fdcad9e" width = "70%">
 
 
-<img src = "https://github.com/user-attachments/assets/1da69fc7-94d0-4ca1-b7fd-b08ec4b78fc0" width = "70%">
+**Key findings:**
+- xxxL average unit price is the highest
+- The overall lowest average unit price based on pizza size is 'SMALL'
+- The price range is 9.75 - 35.95
+
+
+  ## 6. Time-Based Insights
+  - Are there any time periods with unusually high or low sales?
+ 
+Query: [Time-Based](Time_based)
+
+##### Visualization:
+<img src = "https://github.com/user-attachments/assets/fab430b1-5ee1-4fbc-9d74-2373b33589cc" width = "70%">
+
