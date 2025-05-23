@@ -97,6 +97,9 @@ Query: [Popular Product](popularproduct.sql)
 - The ratio of vegetarians compared to non-vegetarians is higher.
 - The quantity(1) of pizza ordered is way higher than the rest quantity(2,4 and 4) respectively.
 
+#### Recommendations:
+- 
+
 ## 5. Pricing insight
 - What is the price range of the pizza sold?
 - How does the unit price of pizzas vary across different sizes and categories?
@@ -108,9 +111,16 @@ Query: [Pricing insight](Pricing_insights.sql)
 
 
 **Key findings:**
-- xxxL average unit price is the highest
+- XXXL average unit price is the highest
 - The overall lowest average unit price based on pizza size is 'SMALL'
 - The price range is 9.75 - 35.95
+
+
+#### Recommendations:
+- Introduce free drinks combo to support XL and XXL pizza sales.
+- Make a little and simple chart or pop message for online buyers explaining why they are getting a good deal on their money when ordering for XL and XXL compared to SMALL,MEDIUM or LARGE( e.g Uk store(lidl) explain
+- 
+
 
 
   ## 6. Time-Based Insights
