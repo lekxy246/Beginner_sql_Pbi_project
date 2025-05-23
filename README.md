@@ -118,7 +118,8 @@ Query: [Pricing insight](Pricing_insights.sql)
 
 #### Recommendations:
 - Introduce free drinks combo to support XL and XXL pizza sales.
-- Make a little and simple chart or pop message for online buyers explaining why they are getting a good deal on their money when ordering for XL and XXL compared to SMALL,MEDIUM or LARGE( e.g Uk store(lidl) explain
+- Make a little and simple chart or pop message for online and walk in bueyrs explaining why they are getting a good deal on their money when ordering for XL and XXL compared to SMALL,MEDIUM or LARGE( e.g Uk store(lidl) explains how getting a bigger water is a better <img src = "https://github.com/user-attachments/assets/64cae3f0-ec38-4dab-ae5b-da67571a53fc" width ="40">
+ than the smaller ones
 - 
 
 
