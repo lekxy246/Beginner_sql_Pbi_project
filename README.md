@@ -143,7 +143,8 @@ Query: [Time-Based](Time_based.sql)
 
 
 #### Recommendations:
-- 
+- Student with verified ID get 20% off during non-peak hours so as to drive sales.
+- Get data what combo humans like to pair with pizza and work on it.
 
 
 
