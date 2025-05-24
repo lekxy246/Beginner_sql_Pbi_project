@@ -98,7 +98,8 @@ Query: [Popular Product](popularproduct.sql)
 - The quantity(1) of pizza ordered is way higher than the rest quantity(2,4 and 4) respectively.
 
 #### Recommendations:
-- 
+- Breach the quantity gap by applying pizza combo deal, so customer can order more than one pizza
+- Create new pizza recipe and name for vegetarian to meet able to meet up with non-vegetarian orders(Although the ratio of non-vegetarian to vegetarian is high,vegetarian pizzas are experiencing notable growth driven by evolving consumer preference and dietary trends).
 
 ## 5. Pricing insight
 - What is the price range of the pizza sold?
@@ -144,7 +145,7 @@ Query: [Time-Based](Time_based.sql)
 
 #### Recommendations:
 - Student with verified ID get 20% off during non-peak hours so as to drive sales.
-- Get data what combo humans like to pair with pizza and work on it.
+- Get data on what combo humans like to pair with pizza and work on it.
 
 
 
