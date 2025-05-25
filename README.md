@@ -1,7 +1,7 @@
 # Beginner_sql_Pbi_project
 
 ## overview
-This analyzes pizza sales to uncover trends in sales timing, product popularity, revenue, and pricing. It identifies peak hours, top-selling pizzas, and pricing challenges, offering actionable recommendations like targeted discounts, combo deals, and product bundling to boost sales and efficiency.
+This analyzes pizza data to uncover trends in sales timing, product popularity, revenue, and pricing. It identifies peak hours, top-selling pizzas, and pricing challenges, offering actionable recommendations like targeted discounts, combo deals, and product bundling to boost sales and efficiency.
 
 
 ## Business Questions
