@@ -78,7 +78,7 @@ Query: [Popular Product](popularproduct.sql)
 
 
 #### Recommendations:
-- 
+- check the top 10 undeperforming pizza on why it not selling, might be due to pricing, taste or smell
 
 ## 4. Customer Preferences/ order Pattern
 - Is there any preference for vegeterian or non-vegetarian pizzas?
