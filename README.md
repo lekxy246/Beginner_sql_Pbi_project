@@ -77,8 +77,11 @@ Query: [Popular Product](popularproduct.sql)
 - Based on the Average order value, it shows that the average(mean) of each order placed is worth $16.
 
 
+
 #### Recommendations:
-- check the top 10 undeperforming pizza on why it not selling, might be due to pricing, taste or smell
+- check the top 10 undeperforming pizza on why it not selling, might be due to taste or smell.
+- The brie chicken pizza has the highest unit price based on pizza size(small) which result to low orders, Cut down the cost to  reduce unit price.
+- The italian vegetables pizza has the highest unit price based on pizza size(large) which result to low orders, cut down the cost to reduce unit price.
 
 ## 4. Customer Preferences/ order Pattern
 - Is there any preference for vegeterian or non-vegetarian pizzas?
